@@ -1,4 +1,4 @@
-#!/usr/bin/env python2#!/usr/bin/env python2
+#!/usr/bin/env python2
 from hermes_python.hermes import Hermes
 import random
 
